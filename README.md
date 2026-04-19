@@ -2,9 +2,6 @@
 
 A futuristic landing page for a fictional space tourism company, built as my first hands-on project to master the core fundamentals of web development.
 
-## 📸 Screenshots
-![Project Preview](https://github.com/Ammar-coder-2029/Traveling-To-Space/blob/main/imegs/preview.png?raw=true)
-
 ## 🛠 Technical Breakdown
 In this project, I focused on mastering the core fundamentals of web layout and styling without using modern frameworks.
 
@@ -16,4 +13,4 @@ In this project, I focused on mastering the core fundamentals of web layout and 
 
 ## 🔗 Links
 - **Live Demo:** [View Website](https://ammar-coder-2029.github.io/Traveling-To-Space/)
-- **GitHub Repo:** [View Code](https://github.com/Ammar-coder-2029/Traveling-To-Space)
+- **GitHub Repo:** [View Code](https://github.com/ammar-coder-2029/Traveling-To-Space)
